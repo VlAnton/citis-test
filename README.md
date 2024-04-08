@@ -1,17 +1,9 @@
 # Тестовое для СИТИС
 
+## Установка зависимостей
+
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
 ## dev
