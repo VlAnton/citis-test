@@ -22,11 +22,11 @@ const { cards } = defineProps([
 
 <style scoped>
 .info-cards {
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 120px;
+  margin: 0 108px;
 }
 .title {
   margin: 0;
